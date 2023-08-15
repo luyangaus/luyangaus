@@ -20,4 +20,4 @@ My Tech Stack
 [![Yang's GitHub stats](https://github-readme-stats-psi-orpin.vercel.app/api?username=luyangaus&count_private=true&theme=radical)](https://github.com/luyangaus/github-readme-stats)
 
 ### 🛠 Programming Languages
-[![Top Langs](https://ggithub-readme-stats-psi-orpin.vercel.app/api/top-langs/?username=luyangaus&layout=compact)](https://github.com/luyangaus/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-orpin.vercel.app/api/top-langs/?username=luyangaus&layout=compact)](https://github.com/luyangaus/github-readme-stats)
