@@ -18,7 +18,7 @@ My Tech Stack
 
 ### ⚙️ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyangaus&count_private=flase&theme=radical)](https://github.com/luyangaus/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyangaus&count_private=true&theme=radical)](https://github.com/luyangaus/github-readme-stats)
 
 ### 🛠 Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luyangaus&layout=compact)](https://github.com/luyangaus/github-readme-stats)
